@@ -28,7 +28,7 @@ Para isso, foram desenvolvidos:
 1. Abra o estudo completo do projeto
 
 📄 Case Study  
-Case_real_Gabriel_Lima_gerencia.pdf
+(Case_real_Gabriel_Lima_gerencia.pdf).
 
 2. O documento apresenta:
 
