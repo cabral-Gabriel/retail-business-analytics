@@ -23,18 +23,20 @@ Para isso, foram desenvolvidos:
 
 ---
 
-## Como Executar o Projeto
+## Como visualizar o projeto
 
-1. Clone este repositório:
+1. Abra o estudo completo do projeto:
 
-```bash
-git clone https://github.com/seu-usuario/retail-business-analytics.git
-```
+📄 Case Study  
+Case_real_Gabriel_Lima_gerencia.pdf
 
-2. Abra o estudo completo do projeto:
+2. O documento apresenta:
 
-```
-case-study.pdf
+- contexto do problema de negócio
+- estruturação da base de dados
+- modelagem utilizada
+- dashboard desenvolvido em Power BI
+- insights e recomendações geradas a partir da análise
 ```
 
 3. Para visualizar o dashboard, abra o arquivo:
