@@ -25,7 +25,7 @@ Para isso, foram desenvolvidos:
 
 ## Como visualizar o projeto
 
-1. Abra o estudo completo do projeto:
+1. Abra o estudo completo do projeto
 
 📄 Case Study  
 Case_real_Gabriel_Lima_gerencia.pdf
