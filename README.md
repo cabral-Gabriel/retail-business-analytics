@@ -37,17 +37,7 @@ Case_real_Gabriel_Lima_gerencia.pdf
 - modelagem utilizada
 - dashboard desenvolvido em Power BI
 - insights e recomendações geradas a partir da análise
-```
 
-3. Para visualizar o dashboard, abra o arquivo:
-
-```
-power_bi/dashboard_retail.pbix
-```
-
-no **Power BI Desktop**.
-
----
 
 ## Screenshots
 
