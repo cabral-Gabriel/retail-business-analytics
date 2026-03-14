@@ -49,9 +49,9 @@ no **Power BI Desktop**.
 
 ## Screenshots
 
-![Dashboard de Vendas](images/dashboard_vendas.png)
+![Dashboard de Vendas](Dashboard.png)
 
-![Análise de Produtos](images/dashboard_produtos.png)
+
 
 ---
 
